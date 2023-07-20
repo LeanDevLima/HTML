@@ -1,6 +1,6 @@
 # Website Básico - HTML Example
 
-Esse repositório é uma das estapas da [Formação HTML Web Developer](https://web.dio.me/track/formacao-html-web-developer) presente na plataforma [Digital Innovation One](https://www.dio.me/?ref=RE6NDV822B).
+Esse repositório é uma das etapas da [Formação HTML Web Developer](https://web.dio.me/track/formacao-html-web-developer) presentes na plataforma [Digital Innovation One](https://www.dio.me/?ref=RE6NDV822B).
 
 [![Exemplo de imagem](https://hermes.dio.me/tracks/62ed1f1d-8d76-4bbc-905f-e73d20cb82f5.png)]()
 
@@ -51,11 +51,12 @@ Este projeto foi desenvolvido como exemplo de uso básico de tags HTML para ajud
 
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para obter mais informações.
 
-## Certificado 📝
-
-[Entendendo Comunicação Client x Server](https://www.dio.me/certificate/A2FE4B3A/share)
-[Introdução ao HTML na Prática](https://www.dio.me/certificate/B0E30997/share)
-[Como Entregar seu Desafio de Projeto](https://www.dio.me/certificate/67E6EC3D/share)
+## Certificados 📝
 
 
-[Digital Innovation One](https://www.dio.me/?ref=RE6NDV822B)
+[Entendendo Comunicação Client x Server 📜](https://www.dio.me/certificate/A2FE4B3A/share)  
+[Introdução ao HTML na Prática 📜](https://www.dio.me/certificate/B0E30997/share)  
+[Como Entregar seu Desafio de Projeto 📜](https://www.dio.me/certificate/67E6EC3D/share)  
+[Criar Uma Página Web Utilizando as Tags Aprendidas 🎓 ](https://www.dio.me/certificate/85A70D0F/share)  
+
+[Digital Innovation One 💻](https://www.dio.me/?ref=RE6NDV822B)
